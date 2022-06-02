@@ -1,0 +1,26 @@
+.login-page, .register-page {
+    -ms-flex-align: center;
+    align-items: center;
+    background: url(assets/img/loggbr.jpg) no-repeat center center fixed;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: 100vh;
+    -ms-flex-pack: center;
+    justify-content: center;
+    
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.card {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    box-shadow: 5px -5px 20px 2px #5a5a5a, 5px 5px 12px 2px #4e4e4e;
+}
+
+.login-logo, .register-logo {
+    margin-bottom: -10px;
+}

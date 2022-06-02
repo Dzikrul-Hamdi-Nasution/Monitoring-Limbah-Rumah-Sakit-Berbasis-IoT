@@ -1,0 +1,57 @@
+body {
+    background: url(assets/img/dasar.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.navbar {
+    background-color: #005c99;
+}
+.tombol {
+    float: right;
+}
+.container { 
+    margin-top: 40px;
+  }
+.text-muted {
+    color: #ffffff!important;
+}
+.kotaka {
+    background-color: #2db300;
+    box-shadow: -3px 13px 25px 5px #3a3a3a, 5px 5px 12px 2px #8e8e8e;
+}
+.kotak1 {
+    background-color: #269900;
+    color: white;
+}
+.card {
+    border: none;
+}
+.kotakb {
+    background-color:  #00b8e6;
+    box-shadow: -9px 13px 25px 5px #3a3a3a, 5px 5px 12px 2px #8e8e8e;
+}
+.kotak2 {
+    background-color: #00a3cc;
+    color: white;
+}
+.kotakc {
+    background-color: #cc8800;
+    box-shadow: -3px 13px 25px 5px #3a3a3a, 5px 5px 12px 2px #8e8e8e;
+}
+.kotak3 {
+    background-color: #b37700;
+    color: white;
+}
+.kotakd {
+    background-color: #8a8a5c;
+    box-shadow: -9px 12px 25px 5px #3a3a3a, 5px 5px 12px 2px #8e8e8e;
+}
+.kotak4 {
+    background-color: #7a7a52;
+    color: white;
+}
+.icon-cog {
+    color: white;
+}
